@@ -1,2 +1,6 @@
 # Hotel-Booking-Analysis-Dashboard
-I have made a Hotel Booking Analysis dashboard showing the patterns and trends of Booking and Cancellation throughout the year 2015, 2016 and 2017. I had given a Hotel Booing Dataset. First, I cleaned and analysed the dataset and then made a dashboard using Power Bi.
+• Conducted comprehensive data mining and trend analysis to optimize marketing strategies and improve booking 
+rates. 
+• Analyzed cancellation rates and identified factors contributing to cancellations, resulting in a reduction in 
+cancellation rates through strategic adjustments. 
+• Created interactive dashboards, highlighting KPIs like total number of bookings, cancellation and total revenue etc.
